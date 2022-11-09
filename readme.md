@@ -15,11 +15,13 @@ https://github.com/vincentchacha/VirtualPayOnlineTest.git
  **a. Node.js**
  
  The latesr version of node.js can be downloaded and  installed for free from here.
+ 
     ```bash
     https://nodejs.org/en/download/
     ```
 
 **3. Run the tests from the terminal**
+
 **Question 1**
 
 Change directory to Question1 Folder
