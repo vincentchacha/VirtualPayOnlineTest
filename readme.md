@@ -1,5 +1,6 @@
 # Virtual Pay Online Test
-    The tests were implemented using Javascript.
+    
+ The tests were implemented using Javascript.
 
 ## Steps to Setup and Run
 
@@ -11,7 +12,7 @@ https://github.com/vincentchacha/VirtualPayOnlineTest.git
 
 **2. Requiements**
 
- 1. Node.js
+ **a. Node.js**
  The latesr version of node.js can be downloaded and  installed for free from here.
     ```bash
     https://nodejs.org/en/download/
